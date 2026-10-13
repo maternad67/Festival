@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d94a3bbd-05a4-48b1-931c-a258cc1087df" name="Changes" comment="Změna main barev">
+      <change afterPath="$PROJECT_DIR$/data/api/json-schema/performer_detail.schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/api/json-schema/venue_detail.schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/api/json-schema/event_detail.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/api/json-schema/event_detail.schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/api/json-schema/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/api/json-schema/events.schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/api/json-schema/festival.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/api/json-schema/festival.schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/api/json-schema/performer_detail.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/api/json-schema/performers.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/api/json-schema/performers.schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/api/json-schema/venue_detail.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/api/json-schema/venues.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/api/json-schema/venues.schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/api/json/performer_detail.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/api/json/performer_detail.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/api/json/venue_detail.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/api/json/venue_detail.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/api/openapi.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/api/openapi.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/api/transformation/performer_detail.xslt" beforeDir="false" afterPath="$PROJECT_DIR$/data/api/transformation/performer_detail.xslt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/api/transformation/venue_detail.xslt" beforeDir="false" afterPath="$PROJECT_DIR$/data/api/transformation/venue_detail.xslt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;farmarpeeta&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/farmarpeeta/RockJam.git&quot;,
+    &quot;accountId&quot;: &quot;f877cf6f-796d-4215-8a15-de23f001227b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3ACpNDoZ9genVVjN9jwAUHE8H0b" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.main.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;XSLT.event_detail.xslt.executor&quot;: &quot;Run&quot;,
+    &quot;XSLT.events.xslt.executor&quot;: &quot;Run&quot;,
+    &quot;XSLT.festival.xslt.executor&quot;: &quot;Run&quot;,
+    &quot;XSLT.performer_detail.xslt.executor&quot;: &quot;Run&quot;,
+    &quot;XSLT.performers.xslt.executor&quot;: &quot;Run&quot;,
+    &quot;XSLT.transform.xslt.executor&quot;: &quot;Run&quot;,
+    &quot;XSLT.venue_detail.xslt.executor&quot;: &quot;Run&quot;,
+    &quot;XSLT.venues.xslt.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/htmls" />
+    </key>
+  </component>
+  <component name="RunManager" selected="XSLT.venue_detail.xslt">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/RockJam/htmls/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="event_detail.xslt" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="$PROJECT_DIR$/api/json/event_detail.json" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/data/api/transformation/event_detail.xslt" />
+      <XmlFile url="file://$PROJECT_DIR$/data/festival.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="JSON" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="events.xslt" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="$PROJECT_DIR$/api/json/events.json" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/data/api/transformation/events.xslt" />
+      <XmlFile url="file://$PROJECT_DIR$/data/festival.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="JSON" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="festival.xslt" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="$PROJECT_DIR$/api/json/festival.json" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/data/api/transformation/festival.xslt" />
+      <XmlFile url="file://$PROJECT_DIR$/data/festival.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="JSON" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="performer_detail.xslt" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="$PROJECT_DIR$/data/api/json/performer_detail.json" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/data/api/transformation/performer_detail.xslt" />
+      <XmlFile url="file://$PROJECT_DIR$/data/festival.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="JSON" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="performers.xslt" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="$PROJECT_DIR$/api/json/performers.json" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/data/api/transformation/performers.xslt" />
+      <XmlFile url="file://$PROJECT_DIR$/data/festival.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="JSON" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="venue_detail.xslt" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="$PROJECT_DIR$/data/api/json/venue_detail.json" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/data/api/transformation/venue_detail.xslt" />
+      <XmlFile url="file://$PROJECT_DIR$/data/festival.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="JSON" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="venues.xslt" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="$PROJECT_DIR$/api/json/venues.json" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/data/api/transformation/venues.xslt" />
+      <XmlFile url="file://$PROJECT_DIR$/data/festival.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="JSON" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="XSLT.event_detail.xslt" />
+      <item itemvalue="XSLT.events.xslt" />
+      <item itemvalue="XSLT.festival.xslt" />
+      <item itemvalue="XSLT.performer_detail.xslt" />
+      <item itemvalue="XSLT.performers.xslt" />
+      <item itemvalue="XSLT.venue_detail.xslt" />
+      <item itemvalue="XSLT.venues.xslt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.31033.133" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d94a3bbd-05a4-48b1-931c-a258cc1087df" name="Changes" comment="" />
+      <created>1772106366517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772106366517</updated>
+      <workItem from="1772106367540" duration="13790000" />
+      <workItem from="1772123092569" duration="231000" />
+      <workItem from="1772443580313" duration="2669000" />
+      <workItem from="1773326085801" duration="1264000" />
+      <workItem from="1774531248103" duration="68000" />
+      <workItem from="1774876261087" duration="665000" />
+      <workItem from="1776952120064" duration="3326000" />
+      <workItem from="1776955535288" duration="4651000" />
+    </task>
+    <task id="LOCAL-00001" summary="začátek">
+      <option name="closed" value="true" />
+      <created>1772114149342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772114149342</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Konec">
+      <option name="closed" value="true" />
+      <created>1772116515803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772116515803</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hotovo">
+      <option name="closed" value="true" />
+      <created>1772117499813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772117499813</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update xsd podle pdf z přednášky">
+      <option name="closed" value="true" />
+      <created>1772120308643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772120308643</updated>
+    </task>
+    <task id="LOCAL-00005" summary="menší update + vytvoření dokumentace.docx">
+      <option name="closed" value="true" />
+      <created>1772444972231</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772444972231</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Změna main barev">
+      <option name="closed" value="true" />
+      <created>1773043251168</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773043251168</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="začátek" />
+    <MESSAGE value="Konec" />
+    <MESSAGE value="Hotovo" />
+    <MESSAGE value="Update xsd podle pdf z přednášky" />
+    <MESSAGE value="menší update + vytvoření dokumentace.docx" />
+    <MESSAGE value="Změna main barev" />
+    <option name="LAST_COMMIT_MESSAGE" value="Změna main barev" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
