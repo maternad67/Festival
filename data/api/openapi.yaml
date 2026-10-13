@@ -1,0 +1,138 @@
+openapi: 3.1.0
+info:
+  title: Rock Jam 2026 API
+  description: API pro správu 20. ročníku rockového festivalu v Parku 360.
+  version: 1.0.0
+
+servers:
+  - url: https://api.rockjam2026.cz/v1
+    description: Produkční server
+
+paths:
+  /api/festival:
+    get:
+      summary: Získání základních informací o festivalu
+      responses:
+        '200':
+          description: Úspěšné vrácení identity festivalu
+          content:
+            application/json:
+              schema:
+                $ref: './json-schema/festival.schema.json'
+        '404':
+          description: Informace o festivalu nenalezeny
+
+  /api/venues:
+    get:
+      summary: Seznam všech scén v areálu
+      responses:
+        '200':
+          description: Seznam scén
+          content:
+            application/json:
+              schema:
+                $ref: './json-schema/venues.schema.json'
+
+  /api/venues/{id}:
+    get:
+      summary: Detail konkrétní scény
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Detail scény
+          content:
+            application/json:
+              schema:
+                $ref: './json-schema/venue_detail.schema.json'
+        '404':
+          description: Scéna s tímto ID neexistuje
+
+  /api/performers:
+    get:
+      summary: Seznam účinkujících se stránkováním
+      parameters:
+        - name: page
+          in: query
+          description: Číslo stránky pro stránkování
+          schema:
+            type: integer
+            default: 1
+        - name: pageSize
+          in: query
+          description: Počet prvků na stránku
+          schema:
+            type: integer
+            default: 10
+      responses:
+        '200':
+          description: Seznam kapel
+          content:
+            application/json:
+              schema:
+                $ref: './json-schema/performers.schema.json'
+        '400':
+          description: Neplatné parametry stránkování
+
+  /api/performers/{id}:
+    get:
+      summary: Detail konkrétní kapely
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Detail kapely
+          content:
+            application/json:
+              schema:
+                $ref: './json-schema/performer_detail.schema.json'
+
+  /api/events:
+    get:
+      summary: Program festivalu s filtry
+      parameters:
+        - name: day
+          in: query
+          description: Filtr podle data (YYYY-MM-DD)
+          schema:
+            type: string
+            format: date
+        - name: venueId
+          in: query
+          description: Filtr podle ID scény
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Harmonogram koncertů
+          content:
+            application/json:
+              schema:
+                $ref: './json-schema/events.schema.json'
+        '400':
+          description: Špatně zadaný formát data
+
+  /api/events/{id}:
+    get:
+      summary: Detail konkrétního koncertu
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Detail události
+          content:
+            application/json:
+              schema:
+                $ref: './json-schema/event_detail.schema.json'

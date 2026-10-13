@@ -1,0 +1,132 @@
+/* DEFINICE BAREV A PROMĚNNÝCH */
+:root {
+    --primary: #00d9ff;       /* Neonová azurová */
+    --primary-glow: rgba(0, 217, 255, 0.5);
+    --bg: #050505;            /* Černý základ */
+    --surface: #12171a;       /* Břidlicová pro karty */
+    --text: #e0f7fa;          /* Namodralá bílá */
+    --muted: #6b7a80;
+}
+
+/* ZÁKLADNÍ NASTAVENÍ A RESET */
+body {
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', system-ui, sans-serif;
+    margin: 0;
+    line-height: 1.6;
+}
+
+/* HLAVIČKA A LOGO JAKO ODKAZ */
+header {
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 20px 5%;
+    border-bottom: 2px solid var(--primary);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+/* STYLING LOGA (PŘEPRACAVANÝ NA ODKAZ) */
+.logo {
+    color: var(--primary);
+    text-decoration: none;      /* Odstranění podtržení odkazu */
+    font-size: 1.6rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    transition: all 0.3s ease;
+}
+
+.logo:hover {
+    text-shadow: 0 0 12px var(--primary-glow);
+    opacity: 0.8;
+}
+
+/* NAVIGACE */
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
+
+nav a:hover, nav a.active {
+    color: var(--primary);
+}
+
+/* HLAVNÍ OBSAH A SEKCE */
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+section {
+    margin-bottom: 70px;
+}
+
+/* ČLÁNKY (ARTICLE) - KARTY DAT */
+article {
+    background-color: var(--surface);
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border-left: 4px solid var(--primary);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+/* TYPOGRAFIE */
+h1, h2, h3 { color: #fff; margin-top: 0; }
+h1 { font-size: 3rem; margin-bottom: 20px; }
+h2 { color: var(--primary); margin-bottom: 25px; }
+
+/* MULTIMÉDIA */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin: 20px 0;
+    border: 1px solid #333;
+}
+
+/* SÉMANTICKÉ DOPLŇKY */
+aside {
+    background: #0f1214;
+    padding: 20px;
+    border: 1px dashed var(--primary);
+    color: var(--muted);
+}
+
+time {
+    color: var(--primary);
+    font-weight: bold;
+    background: rgba(0, 217, 255, 0.1);
+    padding: 2px 5px;
+}
+
+/* PATIČKA A ADRESA */
+footer {
+    padding: 50px 20px;
+    border-top: 1px solid #222;
+    text-align: center;
+    background: #000;
+}
+
+address {
+    font-style: normal;
+    color: var(--muted);
+    font-size: 0.9rem;
+}

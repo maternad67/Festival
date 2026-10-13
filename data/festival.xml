@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<festival name="Rock Jam" edition="20"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="festival.xsd">
+
+    <venues>
+        <venue id="v1">
+            <name>Gravity Main Stage</name>
+            <description>Hlavní open-air scéna pro headlinery</description>
+            <capacity>15000</capacity> </venue>
+        <venue id="v2">
+            <name>Alternative Hangar</name>
+            <description>Krytá scéna pro alternativní a progresivní žánry</description>
+            <capacity>5000</capacity>
+        </venue>
+        <venue id="v3">
+            <name>The Core Bunker</name>
+            <description>Klubová scéna zaměřená na hardcore a metalcore</description>
+            <capacity>2000</capacity>
+        </venue>
+    </venues>
+
+    <performers>
+        <performer id="p1" genre="Nu-Metal">Linkin Park</performer>
+        <performer id="p2" genre="Nu-Metal">Korn</performer>
+        <performer id="p3" genre="Alternative Metal">Sleep Token</performer>
+        <performer id="p4" genre="Metalcore">Bring Me The Horizon</performer>
+        <performer id="p5" genre="Alternative Metal">Deftones</performer>
+        <performer id="p6" genre="Alternative Rock">Evanescence</performer>
+        <performer id="p7" genre="Nu-Metal">Limp Bizkit</performer>
+        <performer id="p8" genre="Alternative Metal">Bad Omens</performer> <performer id="p9" genre="Metalcore">Spiritbox</performer> <performer id="p10" genre="Post-Hardcore">Enter Shikari</performer>
+        <performer id="p11" genre="Alternative Rock">Placebo</performer>
+        <performer id="p12" genre="Nu-Metal">Papa Roach</performer>
+        <performer id="p13" genre="Metalcore">Architects</performer>
+        <performer id="p14" genre="Alternative Rock">Muse</performer>
+        <performer id="p15" genre="Hard Rock">Queens of the Stone Age</performer>
+        <performer id="p16" genre="Industrial Rock">Nine Inch Nails</performer>
+        <performer id="p17" genre="Prog-Metal">Gojira</performer>
+        <performer id="p18" genre="Electronic Rock">Pendulum</performer>
+        <performer id="p19" genre="Alternative Metal">A Perfect Circle</performer>
+        <performer id="p20" genre="Grunge">Alice in Chains</performer>
+        <performer id="p21" genre="Shoegaze">Loathe</performer>
+        <performer id="p22" genre="Hardcore">Knocked Loose</performer>
+        <performer id="p23" genre="Alternative Rock">Nothing But Thieves</performer>
+        <performer id="p24" genre="Post-Rock">Caspian</performer>
+        <performer id="p25" genre="Nu-Metal">Static-X</performer>
+        <performer id="p26" genre="Alternative Metal">Chevelle</performer>
+        <performer id="p27" genre="Metalcore">While She Sleeps</performer>
+        <performer id="p28" genre="Post-Punk">Idles</performer>
+        <performer id="p29" genre="Art Rock">Palaye Royale</performer>
+        <performer id="p30" genre="Alternative Metal">Seether</performer>
+        <performer id="p31" genre="Emo">My Chemical Romance</performer>
+        <performer id="p32" genre="Metalcore">August Burns Red</performer>
+        <performer id="p33" genre="Prog-Rock">Leprous</performer>
+        <performer id="p34" genre="Industrial">Health</performer>
+        <performer id="p35" genre="Metalcore">Northlane</performer>
+        <performer id="p36" genre="Nu-Metal">P.O.D.</performer>
+        <performer id="p37" genre="Alternative Rock">Highly Suspect</performer>
+        <performer id="p38" genre="Nu-core">Alpha Wolf</performer>
+        <performer id="p39" genre="Hardcore">Turnstile</performer>
+        <performer id="p40" genre="Post-Metal">Cult of Luna</performer>
+        <performer id="p41" genre="Deathcore">Lorna Shore</performer>
+        <performer id="p42" genre="Alternative Rock">Yonaka</performer>
+        <performer id="p43" genre="Hardcore">Gel</performer>
+        <performer id="p44" genre="Nu-Metal">Tallah</performer>
+        <performer id="p45" genre="Punk Rock">The Interrupters</performer>
+        <performer id="p46" genre="Grunge">Superheaven</performer>
+        <performer id="p47" genre="Metalcore">Polaris</performer>
+        <performer id="p48" genre="Nu-core">Vended</performer>
+        <performer id="p49" genre="Post-Hardcore">Thrice</performer>
+        <performer id="p50" genre="Alternative Metal">HIM</performer>
+        <performer id="p51" genre="Metalcore">Motionless In White</performer> <performer id="p52" genre="Post-Metal">Amenra</performer>
+        <performer id="p53" genre="Hardcore">Scowl</performer>
+        <performer id="p54" genre="Alternative Rock">Wallows</performer>
+        <performer id="p55" genre="Nu-Metal">Snot</performer>
+        <performer id="p56" genre="Metalcore">Landmvrks</performer>
+        <performer id="p57" genre="Alternative Rock">Dead Pony</performer>
+        <performer id="p58" genre="Hardcore">Code Orange</performer>
+        <performer id="p59" genre="Sludge Metal">Mastodon</performer>
+        <performer id="p60" genre="Post-Rock">Russian Circles</performer>
+    </performers>
+
+    <program>
+        <day date="2026-07-03">
+            <event id="e1" performer_ref="p3" venue_ref="v1" start="22:00" end="23:30">Sleep Token Ritual</event>
+            <event id="e2" performer_ref="p5" venue_ref="v1" start="20:00" end="21:15">Deftones Live</event>
+            <event id="e3" performer_ref="p8" venue_ref="v1" start="18:30" end="19:30">Bad Omens Show</event>
+            <event id="e4" performer_ref="p11" venue_ref="v1" start="17:00" end="18:00">Placebo UK</event>
+            <event id="e5" performer_ref="p14" venue_ref="v1" start="15:30" end="16:30">Muse Preview</event>
+            <event id="e6" performer_ref="p20" venue_ref="v1" start="14:00" end="15:00">Alice in Chains Tribute</event>
+            <event id="e7" performer_ref="p21" venue_ref="v2" start="21:00" end="22:00">Loathe Atmosphere</event>
+            <event id="e8" performer_ref="p24" venue_ref="v2" start="19:30" end="20:30">Caspian Post-Rock</event>
+            <event id="e9" performer_ref="p27" venue_ref="v2" start="18:00" end="19:00">While She Sleeps</event>
+            <event id="e10" performer_ref="p30" venue_ref="v2" start="16:30" end="17:30">Seether Acoustic/Electric</event>
+            <event id="e11" performer_ref="p33" venue_ref="v2" start="15:00" end="16:00">Leprous Progressive</event>
+            <event id="e12" performer_ref="p36" venue_ref="v2" start="13:30" end="14:30">P.O.D. Classics</event>
+            <event id="e13" performer_ref="p39" venue_ref="v2" start="12:00" end="13:00">Turnstile Energy</event>
+            <event id="e14" performer_ref="p41" venue_ref="v3" start="22:30" end="23:30">Lorna Shore Chaos</event>
+            <event id="e15" performer_ref="p44" venue_ref="v3" start="21:00" end="22:00">Tallah Nu-core</event>
+            <event id="e16" performer_ref="p47" venue_ref="v3" start="19:30" end="20:30">Polaris Aus</event>
+            <event id="e17" performer_ref="p50" venue_ref="v3" start="18:00" end="19:00">HIM Love Metal</event>
+            <event id="e18" performer_ref="p53" venue_ref="v3" start="16:30" end="17:30">Scowl Hardcore</event>
+            <event id="e19" performer_ref="p56" venue_ref="v3" start="15:00" end="16:00">Landmvrks France</event>
+            <event id="e20" performer_ref="p59" venue_ref="v3" start="13:30" end="14:30">Mastodon Sludge</event>
+        </day>
+
+        <day date="2026-07-04">
+            <event id="e21" performer_ref="p2" venue_ref="v1" start="22:15" end="23:45">Korn: 20th Anniversary</event>
+            <event id="e22" performer_ref="p7" venue_ref="v1" start="20:15" end="21:30">Limp Bizkit Party</event>
+            <event id="e23" performer_ref="p9" venue_ref="v1" start="18:45" end="19:45">Spiritbox Live</event>
+            <event id="e24" performer_ref="p12" venue_ref="v1" start="17:15" end="18:15">Papa Roach Infest</event>
+            <event id="e25" performer_ref="p15" venue_ref="v1" start="15:45" end="16:45">QOTSA Desert Rock</event>
+            <event id="e26" performer_ref="p18" venue_ref="v1" start="14:15" end="15:15">Pendulum Drum&amp;Bass</event>
+            <event id="e27" performer_ref="p22" venue_ref="v2" start="21:15" end="22:15">Knocked Loose Pit</event>
+            <event id="e28" performer_ref="p25" venue_ref="v2" start="19:45" end="20:45">Static-X Evil Disco</event>
+            <event id="e29" performer_ref="p28" venue_ref="v2" start="18:15" end="19:15">Idles UK</event>
+            <event id="e30" performer_ref="p31" venue_ref="v2" start="16:45" end="17:45">MCR Black Parade</event>
+            <event id="e31" performer_ref="p34" venue_ref="v2" start="15:15" end="16:15">Health Industrial</event>
+            <event id="e32" performer_ref="p37" venue_ref="v2" start="13:45" end="14:45">Highly Suspect</event>
+            <event id="e33" performer_ref="p40" venue_ref="v2" start="12:15" end="13:15">Cult of Luna Post-Metal</event>
+            <event id="e34" performer_ref="p42" venue_ref="v3" start="22:45" end="23:45">Yonaka Rocks</event>
+            <event id="e35" performer_ref="p45" venue_ref="v3" start="21:15" end="22:15">The Interrupters Punk</event>
+            <event id="e36" performer_ref="p48" venue_ref="v3" start="19:45" end="20:45">Vended Next Gen</event>
+            <event id="e37" performer_ref="p51" venue_ref="v3" start="18:15" end="19:15">Motionless In White Live</event>
+            <event id="e38" performer_ref="p54" venue_ref="v3" start="16:45" end="17:45">Wallows Indie</event>
+            <event id="e39" performer_ref="p57" venue_ref="v3" start="15:15" end="16:15">Dead Pony Energy</event>
+            <event id="e40" performer_ref="p60" venue_ref="v3" start="13:45" end="14:45">Russian Circles</event>
+        </day>
+
+        <day date="2026-07-05">
+            <event id="e41" performer_ref="p1" venue_ref="v1" start="22:00" end="23:59">Linkin Park: From Zero</event>
+            <event id="e42" performer_ref="p4" venue_ref="v1" start="20:00" end="21:30">BMTH Post Human</event>
+            <event id="e43" performer_ref="p6" venue_ref="v1" start="18:30" end="19:30">Evanescence Fallen</event>
+            <event id="e44" performer_ref="p10" venue_ref="v1" start="17:00" end="18:00">Enter Shikari Rave</event> <event id="e45" performer_ref="p13" venue_ref="v1" start="15:30" end="16:30">Architects Metalcore</event>
+            <event id="e46" performer_ref="p16" venue_ref="v1" start="14:00" end="15:00">NIN Fragile</event>
+            <event id="e47" performer_ref="p19" venue_ref="v1" start="12:30" end="13:30">A Perfect Circle</event>
+            <event id="e48" performer_ref="p23" venue_ref="v2" start="21:00" end="22:00">Nothing But Thieves</event>
+            <event id="e49" performer_ref="p26" venue_ref="v2" start="19:30" end="20:30">Chevelle Rock</event>
+            <event id="e50" performer_ref="p29" venue_ref="v2" start="18:00" end="19:00">Palaye Royale Art</event>
+            <event id="e51" performer_ref="p32" venue_ref="v2" start="16:30" end="17:30">August Burns Red</event>
+            <event id="e52" performer_ref="p35" venue_ref="v2" start="15:00" end="16:00">Northlane Alien</event>
+            <event id="e53" performer_ref="p38" venue_ref="v2" start="13:30" end="14:30">Alpha Wolf Nu-core</event>
+            <event id="e54" performer_ref="p43" venue_ref="v3" start="22:00" end="23:00">Gel Hardcore</event>
+            <event id="e55" performer_ref="p46" venue_ref="v3" start="20:30" end="21:30">Superheaven Grunge</event>
+            <event id="e56" performer_ref="p49" venue_ref="v3" start="19:00" end="20:00">Thrice Vheissu</event>
+            <event id="e57" performer_ref="p52" venue_ref="v3" start="17:30" end="18:30">Amenra Mass</event>
+            <event id="e58" performer_ref="p55" venue_ref="v3" start="16:00" end="17:00">Snot Tribute</event>
+            <event id="e59" performer_ref="p58" venue_ref="v3" start="14:30" end="15:30">Code Orange Above</event>
+            <event id="e60" performer_ref="p17" venue_ref="v3" start="13:00" end="14:00">Gojira Metal</event>
+        </day>
+    </program>
+</festival>

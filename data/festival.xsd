@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+
+    <xs:simpleType name="timeType">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+            <xs:pattern value="([01]?[0-9]|2[0-3]):[0-5][0-9]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:element name="festival">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="venues"> <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="venue" maxOccurs="unbounded">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="name" type="xs:string"/>
+                                    <xs:element name="description" type="xs:string" minOccurs="0"/>
+                                    <xs:element name="capacity" type="xs:integer"/>
+                                </xs:sequence>
+                                <xs:attribute name="id" type="xs:ID" use="required"/>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+                </xs:element>
+
+                <xs:element name="performers">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="performer" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute name="id" type="xs:ID" use="required"/>
+                                            <xs:attribute name="genre" use="required">
+                                                <xs:simpleType>
+                                                    <xs:restriction base="xs:string">
+                                                    </xs:restriction>
+                                                </xs:simpleType>
+                                            </xs:attribute>
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="program">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="day" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="event" maxOccurs="unbounded">
+                                            <xs:complexType>
+                                                <xs:simpleContent>
+                                                    <xs:extension base="xs:string">
+                                                        <xs:attribute name="id" type="xs:ID" use="required"/>
+                                                        <xs:attribute name="performer_ref" type="xs:IDREF" use="required"/>
+                                                        <xs:attribute name="venue_ref" type="xs:IDREF" use="required"/>
+                                                        <xs:attribute name="start" type="timeType" use="required"/>
+                                                        <xs:attribute name="end" type="timeType" use="required"/>
+                                                    </xs:extension>
+                                                </xs:simpleContent>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute name="date" type="xs:date" use="required"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+
+            <xs:attribute name="name" type="xs:string" use="required"/>
+            <xs:attribute name="edition" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:integer">
+                        <xs:minInclusive value="1"/>
+                        <xs:maxInclusive value="100"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="location" type="xs:string" default="Park 360"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

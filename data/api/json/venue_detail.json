@@ -1,0 +1,23 @@
+
+        [
+        
+            {
+            "id": "v1",
+            "name": "Gravity Main Stage",
+            "description": "Hlavní open-air scéna pro headlinery",
+            "capacity": 15000
+            },
+            {
+            "id": "v2",
+            "name": "Alternative Hangar",
+            "description": "Krytá scéna pro alternativní a progresivní žánry",
+            "capacity": 5000
+            },
+            {
+            "id": "v3",
+            "name": "The Core Bunker",
+            "description": "Klubová scéna zaměřená na hardcore a metalcore",
+            "capacity": 2000
+            }
+        ]
+    

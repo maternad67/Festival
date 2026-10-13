@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": { "type": "string" },
+      "day": { "type": "string", "format": "date" },
+      "performerId": { "type": "string" },
+      "venueId": { "type": "string" },
+      "start": { "type": "string" },
+      "end": { "type": "string" },
+      "title": { "type": "string" }
+    },
+    "required": ["id", "day", "performerId", "venueId", "start", "end"]
+  }
+}

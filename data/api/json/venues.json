@@ -1,0 +1,20 @@
+
+        [
+        
+            {
+            "id": "v1",
+            "name": "Gravity Main Stage",
+            "capacity": 15000
+            },
+            {
+            "id": "v2",
+            "name": "Alternative Hangar",
+            "capacity": 5000
+            },
+            {
+            "id": "v3",
+            "name": "The Core Bunker",
+            "capacity": 2000
+            }
+        ]
+    

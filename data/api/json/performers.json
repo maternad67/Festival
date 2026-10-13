@@ -1,0 +1,308 @@
+
+        {
+        "total_count": 60,
+        "results": [
+        
+            {
+            "id": "p1",
+            "name": "Linkin Park",
+            "genre": "Nu-Metal"
+            },
+            {
+            "id": "p2",
+            "name": "Korn",
+            "genre": "Nu-Metal"
+            },
+            {
+            "id": "p3",
+            "name": "Sleep Token",
+            "genre": "Alternative Metal"
+            },
+            {
+            "id": "p4",
+            "name": "Bring Me The Horizon",
+            "genre": "Metalcore"
+            },
+            {
+            "id": "p5",
+            "name": "Deftones",
+            "genre": "Alternative Metal"
+            },
+            {
+            "id": "p6",
+            "name": "Evanescence",
+            "genre": "Alternative Rock"
+            },
+            {
+            "id": "p7",
+            "name": "Limp Bizkit",
+            "genre": "Nu-Metal"
+            },
+            {
+            "id": "p8",
+            "name": "Bad Omens",
+            "genre": "Alternative Metal"
+            },
+            {
+            "id": "p9",
+            "name": "Spiritbox",
+            "genre": "Metalcore"
+            },
+            {
+            "id": "p10",
+            "name": "Enter Shikari",
+            "genre": "Post-Hardcore"
+            },
+            {
+            "id": "p11",
+            "name": "Placebo",
+            "genre": "Alternative Rock"
+            },
+            {
+            "id": "p12",
+            "name": "Papa Roach",
+            "genre": "Nu-Metal"
+            },
+            {
+            "id": "p13",
+            "name": "Architects",
+            "genre": "Metalcore"
+            },
+            {
+            "id": "p14",
+            "name": "Muse",
+            "genre": "Alternative Rock"
+            },
+            {
+            "id": "p15",
+            "name": "Queens of the Stone Age",
+            "genre": "Hard Rock"
+            },
+            {
+            "id": "p16",
+            "name": "Nine Inch Nails",
+            "genre": "Industrial Rock"
+            },
+            {
+            "id": "p17",
+            "name": "Gojira",
+            "genre": "Prog-Metal"
+            },
+            {
+            "id": "p18",
+            "name": "Pendulum",
+            "genre": "Electronic Rock"
+            },
+            {
+            "id": "p19",
+            "name": "A Perfect Circle",
+            "genre": "Alternative Metal"
+            },
+            {
+            "id": "p20",
+            "name": "Alice in Chains",
+            "genre": "Grunge"
+            },
+            {
+            "id": "p21",
+            "name": "Loathe",
+            "genre": "Shoegaze"
+            },
+            {
+            "id": "p22",
+            "name": "Knocked Loose",
+            "genre": "Hardcore"
+            },
+            {
+            "id": "p23",
+            "name": "Nothing But Thieves",
+            "genre": "Alternative Rock"
+            },
+            {
+            "id": "p24",
+            "name": "Caspian",
+            "genre": "Post-Rock"
+            },
+            {
+            "id": "p25",
+            "name": "Static-X",
+            "genre": "Nu-Metal"
+            },
+            {
+            "id": "p26",
+            "name": "Chevelle",
+            "genre": "Alternative Metal"
+            },
+            {
+            "id": "p27",
+            "name": "While She Sleeps",
+            "genre": "Metalcore"
+            },
+            {
+            "id": "p28",
+            "name": "Idles",
+            "genre": "Post-Punk"
+            },
+            {
+            "id": "p29",
+            "name": "Palaye Royale",
+            "genre": "Art Rock"
+            },
+            {
+            "id": "p30",
+            "name": "Seether",
+            "genre": "Alternative Metal"
+            },
+            {
+            "id": "p31",
+            "name": "My Chemical Romance",
+            "genre": "Emo"
+            },
+            {
+            "id": "p32",
+            "name": "August Burns Red",
+            "genre": "Metalcore"
+            },
+            {
+            "id": "p33",
+            "name": "Leprous",
+            "genre": "Prog-Rock"
+            },
+            {
+            "id": "p34",
+            "name": "Health",
+            "genre": "Industrial"
+            },
+            {
+            "id": "p35",
+            "name": "Northlane",
+            "genre": "Metalcore"
+            },
+            {
+            "id": "p36",
+            "name": "P.O.D.",
+            "genre": "Nu-Metal"
+            },
+            {
+            "id": "p37",
+            "name": "Highly Suspect",
+            "genre": "Alternative Rock"
+            },
+            {
+            "id": "p38",
+            "name": "Alpha Wolf",
+            "genre": "Nu-core"
+            },
+            {
+            "id": "p39",
+            "name": "Turnstile",
+            "genre": "Hardcore"
+            },
+            {
+            "id": "p40",
+            "name": "Cult of Luna",
+            "genre": "Post-Metal"
+            },
+            {
+            "id": "p41",
+            "name": "Lorna Shore",
+            "genre": "Deathcore"
+            },
+            {
+            "id": "p42",
+            "name": "Yonaka",
+            "genre": "Alternative Rock"
+            },
+            {
+            "id": "p43",
+            "name": "Gel",
+            "genre": "Hardcore"
+            },
+            {
+            "id": "p44",
+            "name": "Tallah",
+            "genre": "Nu-Metal"
+            },
+            {
+            "id": "p45",
+            "name": "The Interrupters",
+            "genre": "Punk Rock"
+            },
+            {
+            "id": "p46",
+            "name": "Superheaven",
+            "genre": "Grunge"
+            },
+            {
+            "id": "p47",
+            "name": "Polaris",
+            "genre": "Metalcore"
+            },
+            {
+            "id": "p48",
+            "name": "Vended",
+            "genre": "Nu-core"
+            },
+            {
+            "id": "p49",
+            "name": "Thrice",
+            "genre": "Post-Hardcore"
+            },
+            {
+            "id": "p50",
+            "name": "HIM",
+            "genre": "Alternative Metal"
+            },
+            {
+            "id": "p51",
+            "name": "Motionless In White",
+            "genre": "Metalcore"
+            },
+            {
+            "id": "p52",
+            "name": "Amenra",
+            "genre": "Post-Metal"
+            },
+            {
+            "id": "p53",
+            "name": "Scowl",
+            "genre": "Hardcore"
+            },
+            {
+            "id": "p54",
+            "name": "Wallows",
+            "genre": "Alternative Rock"
+            },
+            {
+            "id": "p55",
+            "name": "Snot",
+            "genre": "Nu-Metal"
+            },
+            {
+            "id": "p56",
+            "name": "Landmvrks",
+            "genre": "Metalcore"
+            },
+            {
+            "id": "p57",
+            "name": "Dead Pony",
+            "genre": "Alternative Rock"
+            },
+            {
+            "id": "p58",
+            "name": "Code Orange",
+            "genre": "Hardcore"
+            },
+            {
+            "id": "p59",
+            "name": "Mastodon",
+            "genre": "Sludge Metal"
+            },
+            {
+            "id": "p60",
+            "name": "Russian Circles",
+            "genre": "Post-Rock"
+            }
+        ]
+        }
+    

@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "edition": { "type": "integer" },
+    "description": { "type": "string" },
+    "location": { "type": "string" },
+    "dates": {
+      "type": "object",
+      "properties": {
+        "start": { "type": "string", "format": "date" },
+        "end": { "type": "string", "format": "date" }
+      }
+    },
+    "tickets_url": { "type": "string", "format": "uri" },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "rel": { "type": "string" },
+          "href": { "type": "string" }
+        }
+      }
+    }
+  },
+  "required": ["id", "name", "edition", "dates"]
+}

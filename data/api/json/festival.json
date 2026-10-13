@@ -1,0 +1,12 @@
+
+        {
+        "id": "rock-jam-2026",
+        "name": "Rock Jam",
+        "edition": 20,
+        "description": "20. jubilejní ročník zaměřený na alternativní rock a metal.",
+        "location": "Park 360",
+        "dates": { "start": "2026-07-03", "end": "2026-07-05" },
+        "tickets_url": "https://vstupenky.rockjam.cz",
+        "links": [ { "rel": "program", "href": "/api/events" } ]
+        }
+    
