@@ -13,375 +13,375 @@
     "scenes": [
         {
             "id": "S1",
-            "name": "Bass River Stage",
+            "name": "Riverbass Stage",
             "capacity": 3000
         },
         {
             "id": "S2",
-            "name": "Techno Tent",
+            "name": "Pulse Shelter",
             "capacity": 2000
         }
     ],
     "performers": [
         {
             "id": "P1",
-            "name": "DJ Bass1",
+            "name": "Sublimit",
             "genre": "Drum & Bass",
-            "description": "Exkluzivní Drum & Bass set."
+            "description": "Temná atmosféra a hypnotický Drum & Bass."
         },
         {
             "id": "P2",
-            "name": "DJ Bass2",
+            "name": "PhaseShift",
             "genre": "Liquid DnB",
-            "description": "Exkluzivní Liquid DnB set."
+            "description": "Očekávaná show, která rozhýbe celý dav."
         },
         {
             "id": "P3",
-            "name": "DJ Bass3",
+            "name": "M-Cray",
             "genre": "Neurofunk",
-            "description": "Exkluzivní Neurofunk set."
+            "description": "Legendární Neurofunk producent s exkluzivním letním setem."
         },
         {
             "id": "P4",
-            "name": "DJ Bass4",
+            "name": "Q-Zone",
             "genre": "Dubstep",
-            "description": "Exkluzivní Dubstep set."
+            "description": "Zcela nový zvuk plný energie a hlubokých basů."
         },
         {
             "id": "P5",
-            "name": "DJ Bass5",
+            "name": "B-Plex",
             "genre": "Jungle",
-            "description": "Exkluzivní Jungle set."
+            "description": "Nejlepší Jungle selekce současnosti."
         },
         {
             "id": "P6",
-            "name": "DJ Bass6",
+            "name": "MadVibe",
             "genre": "Drum & Bass",
-            "description": "Exkluzivní Drum & Bass set."
+            "description": "Nabušený Drum & Bass set s masivní basovou linkou."
         },
         {
             "id": "P7",
-            "name": "DJ Bass7",
+            "name": "Kinetix",
             "genre": "Liquid DnB",
-            "description": "Exkluzivní Liquid DnB set."
+            "description": "Temná atmosféra a hypnotický Liquid DnB."
         },
         {
             "id": "P8",
-            "name": "DJ Bass8",
+            "name": "Dropforge",
             "genre": "Neurofunk",
-            "description": "Exkluzivní Neurofunk set."
+            "description": "Očekávaná show, která rozhýbe celý dav."
         },
         {
             "id": "P9",
-            "name": "DJ Bass9",
+            "name": "Ripple Effect",
             "genre": "Dubstep",
-            "description": "Exkluzivní Dubstep set."
+            "description": "Legendární Dubstep producent s exkluzivním letním setem."
         },
         {
             "id": "P10",
-            "name": "DJ Bass10",
+            "name": "EneiX",
             "genre": "Jungle",
-            "description": "Exkluzivní Jungle set."
+            "description": "Zcela nový zvuk plný energie a hlubokých basů."
         },
         {
             "id": "P11",
-            "name": "DJ Tech11",
+            "name": "Kaelen",
             "genre": "Techno",
-            "description": "Exkluzivní Techno set."
+            "description": "Nejlepší Techno selekce současnosti."
         },
         {
             "id": "P12",
-            "name": "DJ Tech12",
+            "name": "Vektor",
             "genre": "Hard Techno",
-            "description": "Exkluzivní Hard Techno set."
+            "description": "Nabušený Hard Techno set s masivní basovou linkou."
         },
         {
             "id": "P13",
-            "name": "DJ Tech13",
+            "name": "Synapsis",
             "genre": "Acid Techno",
-            "description": "Exkluzivní Acid Techno set."
+            "description": "Temná atmosféra a hypnotický Acid Techno."
         },
         {
             "id": "P14",
-            "name": "DJ Tech14",
+            "name": "Modul8",
             "genre": "House",
-            "description": "Exkluzivní House set."
+            "description": "Očekávaná show, která rozhýbe celý dav."
         },
         {
             "id": "P15",
-            "name": "DJ Tech15",
+            "name": "Subliminal",
             "genre": "Tech House",
-            "description": "Exkluzivní Tech House set."
+            "description": "Legendární Tech House producent s exkluzivním letním setem."
         },
         {
             "id": "P16",
-            "name": "DJ Tech16",
+            "name": "X-Form",
             "genre": "Techno",
-            "description": "Exkluzivní Techno set."
+            "description": "Zcela nový zvuk plný energie a hlubokých basů."
         },
         {
             "id": "P17",
-            "name": "DJ Tech17",
+            "name": "Acid Rain",
             "genre": "Hard Techno",
-            "description": "Exkluzivní Hard Techno set."
+            "description": "Nejlepší Hard Techno selekce současnosti."
         },
         {
             "id": "P18",
-            "name": "DJ Tech18",
+            "name": "TechNoir",
             "genre": "Acid Techno",
-            "description": "Exkluzivní Acid Techno set."
+            "description": "Nabušený Acid Techno set s masivní basovou linkou."
         },
         {
             "id": "P19",
-            "name": "DJ Tech19",
+            "name": "Dark Matter",
             "genre": "House",
-            "description": "Exkluzivní House set."
+            "description": "Temná atmosféra a hypnotický House."
         },
         {
             "id": "P20",
-            "name": "DJ Tech20",
+            "name": "Pulse Rate",
             "genre": "Tech House",
-            "description": "Exkluzivní Tech House set."
+            "description": "Očekávaná show, která rozhýbe celý dav."
         },
         {
             "id": "P21",
-            "name": "DJ Bass21",
+            "name": "KasRa",
             "genre": "Drum & Bass",
-            "description": "Exkluzivní Drum & Bass set."
+            "description": "Legendární Drum & Bass producent s exkluzivním letním setem."
         },
         {
             "id": "P22",
-            "name": "DJ Bass22",
+            "name": "HaloGen",
             "genre": "Liquid DnB",
-            "description": "Exkluzivní Liquid DnB set."
+            "description": "Zcela nový zvuk plný energie a hlubokých basů."
         },
         {
             "id": "P23",
-            "name": "DJ Bass23",
+            "name": "BouX",
             "genre": "Neurofunk",
-            "description": "Exkluzivní Neurofunk set."
+            "description": "Nejlepší Neurofunk selekce současnosti."
         },
         {
             "id": "P24",
-            "name": "DJ Bass24",
+            "name": "HeDex",
             "genre": "Dubstep",
-            "description": "Exkluzivní Dubstep set."
+            "description": "Nabušený Dubstep set s masivní basovou linkou."
         },
         {
             "id": "P25",
-            "name": "DJ Bass25",
+            "name": "Kanin",
             "genre": "Jungle",
-            "description": "Exkluzivní Jungle set."
+            "description": "Temná atmosféra a hypnotický Jungle."
         },
         {
             "id": "P26",
-            "name": "DJ Bass26",
+            "name": "Turmoil",
             "genre": "Drum & Bass",
-            "description": "Exkluzivní Drum & Bass set."
+            "description": "Očekávaná show, která rozhýbe celý dav."
         },
         {
             "id": "P27",
-            "name": "DJ Bass27",
+            "name": "Serax",
             "genre": "Liquid DnB",
-            "description": "Exkluzivní Liquid DnB set."
+            "description": "Legendární Liquid DnB producent s exkluzivním letním setem."
         },
         {
             "id": "P28",
-            "name": "DJ Bass28",
+            "name": "VoltAge",
             "genre": "Neurofunk",
-            "description": "Exkluzivní Neurofunk set."
+            "description": "Zcela nový zvuk plný energie a hlubokých basů."
         },
         {
             "id": "P29",
-            "name": "DJ Bass29",
+            "name": "InJect",
             "genre": "Dubstep",
-            "description": "Exkluzivní Dubstep set."
+            "description": "Nejlepší Dubstep selekce současnosti."
         },
         {
             "id": "P30",
-            "name": "DJ Bass30",
+            "name": "MetriX",
             "genre": "Jungle",
-            "description": "Exkluzivní Jungle set."
+            "description": "Nabušený Jungle set s masivní basovou linkou."
         },
         {
             "id": "P31",
-            "name": "DJ Tech31",
+            "name": "R-Chitect",
             "genre": "Techno",
-            "description": "Exkluzivní Techno set."
+            "description": "Temná atmosféra a hypnotický Techno."
         },
         {
             "id": "P32",
-            "name": "DJ Tech32",
+            "name": "Monolith",
             "genre": "Hard Techno",
-            "description": "Exkluzivní Hard Techno set."
+            "description": "Očekávaná show, která rozhýbe celý dav."
         },
         {
             "id": "P33",
-            "name": "DJ Tech33",
+            "name": "Void",
             "genre": "Acid Techno",
-            "description": "Exkluzivní Acid Techno set."
+            "description": "Legendární Acid Techno producent s exkluzivním letním setem."
         },
         {
             "id": "P34",
-            "name": "DJ Tech34",
+            "name": "Abyss",
             "genre": "House",
-            "description": "Exkluzivní House set."
+            "description": "Zcela nový zvuk plný energie a hlubokých basů."
         },
         {
             "id": "P35",
-            "name": "DJ Tech35",
+            "name": "Zenith",
             "genre": "Tech House",
-            "description": "Exkluzivní Tech House set."
+            "description": "Nejlepší Tech House selekce současnosti."
         },
         {
             "id": "P36",
-            "name": "DJ Tech36",
+            "name": "Apex",
             "genre": "Techno",
-            "description": "Exkluzivní Techno set."
+            "description": "Nabušený Techno set s masivní basovou linkou."
         },
         {
             "id": "P37",
-            "name": "DJ Tech37",
+            "name": "Nadir",
             "genre": "Hard Techno",
-            "description": "Exkluzivní Hard Techno set."
+            "description": "Temná atmosféra a hypnotický Hard Techno."
         },
         {
             "id": "P38",
-            "name": "DJ Tech38",
+            "name": "Solstice",
             "genre": "Acid Techno",
-            "description": "Exkluzivní Acid Techno set."
+            "description": "Očekávaná show, která rozhýbe celý dav."
         },
         {
             "id": "P39",
-            "name": "DJ Tech39",
+            "name": "Equinox",
             "genre": "House",
-            "description": "Exkluzivní House set."
+            "description": "Legendární House producent s exkluzivním letním setem."
         },
         {
             "id": "P40",
-            "name": "DJ Tech40",
+            "name": "Vertex",
             "genre": "Tech House",
-            "description": "Exkluzivní Tech House set."
+            "description": "Zcela nový zvuk plný energie a hlubokých basů."
         },
         {
             "id": "P41",
-            "name": "DJ Bass41",
+            "name": "Xenon",
             "genre": "Drum & Bass",
-            "description": "Exkluzivní Drum & Bass set."
+            "description": "Nejlepší Drum & Bass selekce současnosti."
         },
         {
             "id": "P42",
-            "name": "DJ Bass42",
+            "name": "Pulsefire",
             "genre": "Liquid DnB",
-            "description": "Exkluzivní Liquid DnB set."
+            "description": "Nabušený Liquid DnB set s masivní basovou linkou."
         },
         {
             "id": "P43",
-            "name": "DJ Bass43",
+            "name": "The Liquidator",
             "genre": "Neurofunk",
-            "description": "Exkluzivní Neurofunk set."
+            "description": "Temná atmosféra a hypnotický Neurofunk."
         },
         {
             "id": "P44",
-            "name": "DJ Bass44",
+            "name": "Neurogrid",
             "genre": "Dubstep",
-            "description": "Exkluzivní Dubstep set."
+            "description": "Očekávaná show, která rozhýbe celý dav."
         },
         {
             "id": "P45",
-            "name": "DJ Bass45",
+            "name": "Basshound",
             "genre": "Jungle",
-            "description": "Exkluzivní Jungle set."
+            "description": "Legendární Jungle producent s exkluzivním letním setem."
         },
         {
             "id": "P46",
-            "name": "DJ Bass46",
+            "name": "Subculture",
             "genre": "Drum & Bass",
-            "description": "Exkluzivní Drum & Bass set."
+            "description": "Zcela nový zvuk plný energie a hlubokých basů."
         },
         {
             "id": "P47",
-            "name": "DJ Bass47",
+            "name": "Wobble Boss",
             "genre": "Liquid DnB",
-            "description": "Exkluzivní Liquid DnB set."
+            "description": "Nejlepší Liquid DnB selekce současnosti."
         },
         {
             "id": "P48",
-            "name": "DJ Bass48",
+            "name": "Dropkick",
             "genre": "Neurofunk",
-            "description": "Exkluzivní Neurofunk set."
+            "description": "Nabušený Neurofunk set s masivní basovou linkou."
         },
         {
             "id": "P49",
-            "name": "DJ Bass49",
+            "name": "Rumble",
             "genre": "Dubstep",
-            "description": "Exkluzivní Dubstep set."
+            "description": "Temná atmosféra a hypnotický Dubstep."
         },
         {
             "id": "P50",
-            "name": "DJ Bass50",
+            "name": "Syncro",
             "genre": "Jungle",
-            "description": "Exkluzivní Jungle set."
+            "description": "Očekávaná show, která rozhýbe celý dav."
         },
         {
             "id": "P51",
-            "name": "DJ Tech51",
+            "name": "Pivot",
             "genre": "Techno",
-            "description": "Exkluzivní Techno set."
+            "description": "Legendární Techno producent s exkluzivním letním setem."
         },
         {
             "id": "P52",
-            "name": "DJ Tech52",
+            "name": "Fulcrum",
             "genre": "Hard Techno",
-            "description": "Exkluzivní Hard Techno set."
+            "description": "Zcela nový zvuk plný energie a hlubokých basů."
         },
         {
             "id": "P53",
-            "name": "DJ Tech53",
+            "name": "Momentum",
             "genre": "Acid Techno",
-            "description": "Exkluzivní Acid Techno set."
+            "description": "Nejlepší Acid Techno selekce současnosti."
         },
         {
             "id": "P54",
-            "name": "DJ Tech54",
+            "name": "Inertia",
             "genre": "House",
-            "description": "Exkluzivní House set."
+            "description": "Nabušený House set s masivní basovou linkou."
         },
         {
             "id": "P55",
-            "name": "DJ Tech55",
+            "name": "Entropy",
             "genre": "Tech House",
-            "description": "Exkluzivní Tech House set."
+            "description": "Temná atmosféra a hypnotický Tech House."
         },
         {
             "id": "P56",
-            "name": "DJ Tech56",
+            "name": "Enigma",
             "genre": "Techno",
-            "description": "Exkluzivní Techno set."
+            "description": "Očekávaná show, která rozhýbe celý dav."
         },
         {
             "id": "P57",
-            "name": "DJ Tech57",
+            "name": "Paradox",
             "genre": "Hard Techno",
-            "description": "Exkluzivní Hard Techno set."
+            "description": "Legendární Hard Techno producent s exkluzivním letním setem."
         },
         {
             "id": "P58",
-            "name": "DJ Tech58",
+            "name": "Cypher",
             "genre": "Acid Techno",
-            "description": "Exkluzivní Acid Techno set."
+            "description": "Zcela nový zvuk plný energie a hlubokých basů."
         },
         {
             "id": "P59",
-            "name": "DJ Tech59",
+            "name": "Nebula",
             "genre": "House",
-            "description": "Exkluzivní House set."
+            "description": "Nejlepší House selekce současnosti."
         },
         {
             "id": "P60",
-            "name": "DJ Tech60",
+            "name": "Quasar",
             "genre": "Tech House",
-            "description": "Exkluzivní Tech House set."
+            "description": "Nabušený Tech House set s masivní basovou linkou."
         }
     ],
     "schedule": [
