@@ -31,13 +31,13 @@
         },
         {
             "id": "P2",
-            "name": "PhaseShift",
+            "name": "Sir Bassalot",
             "genre": "Liquid DnB",
             "description": "Očekávaná show, která rozhýbe celý dav."
         },
         {
             "id": "P3",
-            "name": "M-Cray",
+            "name": "DJ Traktor",
             "genre": "Neurofunk",
             "description": "Legendární Neurofunk producent s exkluzivním letním setem."
         },
@@ -67,7 +67,7 @@
         },
         {
             "id": "P8",
-            "name": "Dropforge",
+            "name": "Wobblegong",
             "genre": "Neurofunk",
             "description": "Očekávaná show, která rozhýbe celý dav."
         },
@@ -91,7 +91,7 @@
         },
         {
             "id": "P12",
-            "name": "Vektor",
+            "name": "DJ Míchačka",
             "genre": "Hard Techno",
             "description": "Nabušený Hard Techno set s masivní basovou linkou."
         },
@@ -109,7 +109,7 @@
         },
         {
             "id": "P15",
-            "name": "Subliminal",
+            "name": "Techno-log",
             "genre": "Tech House",
             "description": "Legendární Tech House producent s exkluzivním letním setem."
         },
@@ -139,7 +139,7 @@
         },
         {
             "id": "P20",
-            "name": "Pulse Rate",
+            "name": "DJ Nakládačka",
             "genre": "Tech House",
             "description": "Očekávaná show, která rozhýbe celý dav."
         },
@@ -163,7 +163,7 @@
         },
         {
             "id": "P24",
-            "name": "HeDex",
+            "name": "MC Řízek",
             "genre": "Dubstep",
             "description": "Nabušený Dubstep set s masivní basovou linkou."
         },
@@ -175,7 +175,7 @@
         },
         {
             "id": "P26",
-            "name": "Turmoil",
+            "name": "Subwoofer z Fabie",
             "genre": "Drum & Bass",
             "description": "Očekávaná show, která rozhýbe celý dav."
         },
@@ -193,7 +193,7 @@
         },
         {
             "id": "P29",
-            "name": "InJect",
+            "name": "DJ Hluchota",
             "genre": "Dubstep",
             "description": "Nejlepší Dubstep selekce současnosti."
         },
@@ -211,7 +211,7 @@
         },
         {
             "id": "P32",
-            "name": "Monolith",
+            "name": "Kyselý Déšť",
             "genre": "Hard Techno",
             "description": "Očekávaná show, která rozhýbe celý dav."
         },
@@ -247,13 +247,13 @@
         },
         {
             "id": "P38",
-            "name": "Solstice",
+            "name": "Soused od vedle",
             "genre": "Acid Techno",
             "description": "Očekávaná show, která rozhýbe celý dav."
         },
         {
             "id": "P39",
-            "name": "Equinox",
+            "name": "Pan Míchadlo",
             "genre": "House",
             "description": "Legendární House producent s exkluzivním letním setem."
         },
@@ -271,7 +271,7 @@
         },
         {
             "id": "P42",
-            "name": "Pulsefire",
+            "name": "Bassič",
             "genre": "Liquid DnB",
             "description": "Nabušený Liquid DnB set s masivní basovou linkou."
         },
@@ -295,7 +295,7 @@
         },
         {
             "id": "P46",
-            "name": "Subculture",
+            "name": "Dropíček",
             "genre": "Drum & Bass",
             "description": "Zcela nový zvuk plný energie a hlubokých basů."
         },
@@ -373,7 +373,7 @@
         },
         {
             "id": "P59",
-            "name": "Nebula",
+            "name": "DJ Kalkulačka",
             "genre": "House",
             "description": "Nejlepší House selekce současnosti."
         },
