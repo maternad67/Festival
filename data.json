@@ -1,0 +1,869 @@
+{
+    "festival": {
+        "name": "Labská Vlna",
+        "year": 1,
+        "location": "Kemp u řeky, Kostelec nad Labem",
+        "dates": [
+            "2027-06-18",
+            "2027-06-19",
+            "2027-06-20"
+        ],
+        "type": "Electronic Music Festival"
+    },
+    "scenes": [
+        {
+            "id": "S1",
+            "name": "Bass River Stage",
+            "capacity": 3000
+        },
+        {
+            "id": "S2",
+            "name": "Techno Tent",
+            "capacity": 2000
+        }
+    ],
+    "performers": [
+        {
+            "id": "P1",
+            "name": "DJ Bass1",
+            "genre": "Drum & Bass",
+            "description": "Exkluzivní Drum & Bass set."
+        },
+        {
+            "id": "P2",
+            "name": "DJ Bass2",
+            "genre": "Liquid DnB",
+            "description": "Exkluzivní Liquid DnB set."
+        },
+        {
+            "id": "P3",
+            "name": "DJ Bass3",
+            "genre": "Neurofunk",
+            "description": "Exkluzivní Neurofunk set."
+        },
+        {
+            "id": "P4",
+            "name": "DJ Bass4",
+            "genre": "Dubstep",
+            "description": "Exkluzivní Dubstep set."
+        },
+        {
+            "id": "P5",
+            "name": "DJ Bass5",
+            "genre": "Jungle",
+            "description": "Exkluzivní Jungle set."
+        },
+        {
+            "id": "P6",
+            "name": "DJ Bass6",
+            "genre": "Drum & Bass",
+            "description": "Exkluzivní Drum & Bass set."
+        },
+        {
+            "id": "P7",
+            "name": "DJ Bass7",
+            "genre": "Liquid DnB",
+            "description": "Exkluzivní Liquid DnB set."
+        },
+        {
+            "id": "P8",
+            "name": "DJ Bass8",
+            "genre": "Neurofunk",
+            "description": "Exkluzivní Neurofunk set."
+        },
+        {
+            "id": "P9",
+            "name": "DJ Bass9",
+            "genre": "Dubstep",
+            "description": "Exkluzivní Dubstep set."
+        },
+        {
+            "id": "P10",
+            "name": "DJ Bass10",
+            "genre": "Jungle",
+            "description": "Exkluzivní Jungle set."
+        },
+        {
+            "id": "P11",
+            "name": "DJ Tech11",
+            "genre": "Techno",
+            "description": "Exkluzivní Techno set."
+        },
+        {
+            "id": "P12",
+            "name": "DJ Tech12",
+            "genre": "Hard Techno",
+            "description": "Exkluzivní Hard Techno set."
+        },
+        {
+            "id": "P13",
+            "name": "DJ Tech13",
+            "genre": "Acid Techno",
+            "description": "Exkluzivní Acid Techno set."
+        },
+        {
+            "id": "P14",
+            "name": "DJ Tech14",
+            "genre": "House",
+            "description": "Exkluzivní House set."
+        },
+        {
+            "id": "P15",
+            "name": "DJ Tech15",
+            "genre": "Tech House",
+            "description": "Exkluzivní Tech House set."
+        },
+        {
+            "id": "P16",
+            "name": "DJ Tech16",
+            "genre": "Techno",
+            "description": "Exkluzivní Techno set."
+        },
+        {
+            "id": "P17",
+            "name": "DJ Tech17",
+            "genre": "Hard Techno",
+            "description": "Exkluzivní Hard Techno set."
+        },
+        {
+            "id": "P18",
+            "name": "DJ Tech18",
+            "genre": "Acid Techno",
+            "description": "Exkluzivní Acid Techno set."
+        },
+        {
+            "id": "P19",
+            "name": "DJ Tech19",
+            "genre": "House",
+            "description": "Exkluzivní House set."
+        },
+        {
+            "id": "P20",
+            "name": "DJ Tech20",
+            "genre": "Tech House",
+            "description": "Exkluzivní Tech House set."
+        },
+        {
+            "id": "P21",
+            "name": "DJ Bass21",
+            "genre": "Drum & Bass",
+            "description": "Exkluzivní Drum & Bass set."
+        },
+        {
+            "id": "P22",
+            "name": "DJ Bass22",
+            "genre": "Liquid DnB",
+            "description": "Exkluzivní Liquid DnB set."
+        },
+        {
+            "id": "P23",
+            "name": "DJ Bass23",
+            "genre": "Neurofunk",
+            "description": "Exkluzivní Neurofunk set."
+        },
+        {
+            "id": "P24",
+            "name": "DJ Bass24",
+            "genre": "Dubstep",
+            "description": "Exkluzivní Dubstep set."
+        },
+        {
+            "id": "P25",
+            "name": "DJ Bass25",
+            "genre": "Jungle",
+            "description": "Exkluzivní Jungle set."
+        },
+        {
+            "id": "P26",
+            "name": "DJ Bass26",
+            "genre": "Drum & Bass",
+            "description": "Exkluzivní Drum & Bass set."
+        },
+        {
+            "id": "P27",
+            "name": "DJ Bass27",
+            "genre": "Liquid DnB",
+            "description": "Exkluzivní Liquid DnB set."
+        },
+        {
+            "id": "P28",
+            "name": "DJ Bass28",
+            "genre": "Neurofunk",
+            "description": "Exkluzivní Neurofunk set."
+        },
+        {
+            "id": "P29",
+            "name": "DJ Bass29",
+            "genre": "Dubstep",
+            "description": "Exkluzivní Dubstep set."
+        },
+        {
+            "id": "P30",
+            "name": "DJ Bass30",
+            "genre": "Jungle",
+            "description": "Exkluzivní Jungle set."
+        },
+        {
+            "id": "P31",
+            "name": "DJ Tech31",
+            "genre": "Techno",
+            "description": "Exkluzivní Techno set."
+        },
+        {
+            "id": "P32",
+            "name": "DJ Tech32",
+            "genre": "Hard Techno",
+            "description": "Exkluzivní Hard Techno set."
+        },
+        {
+            "id": "P33",
+            "name": "DJ Tech33",
+            "genre": "Acid Techno",
+            "description": "Exkluzivní Acid Techno set."
+        },
+        {
+            "id": "P34",
+            "name": "DJ Tech34",
+            "genre": "House",
+            "description": "Exkluzivní House set."
+        },
+        {
+            "id": "P35",
+            "name": "DJ Tech35",
+            "genre": "Tech House",
+            "description": "Exkluzivní Tech House set."
+        },
+        {
+            "id": "P36",
+            "name": "DJ Tech36",
+            "genre": "Techno",
+            "description": "Exkluzivní Techno set."
+        },
+        {
+            "id": "P37",
+            "name": "DJ Tech37",
+            "genre": "Hard Techno",
+            "description": "Exkluzivní Hard Techno set."
+        },
+        {
+            "id": "P38",
+            "name": "DJ Tech38",
+            "genre": "Acid Techno",
+            "description": "Exkluzivní Acid Techno set."
+        },
+        {
+            "id": "P39",
+            "name": "DJ Tech39",
+            "genre": "House",
+            "description": "Exkluzivní House set."
+        },
+        {
+            "id": "P40",
+            "name": "DJ Tech40",
+            "genre": "Tech House",
+            "description": "Exkluzivní Tech House set."
+        },
+        {
+            "id": "P41",
+            "name": "DJ Bass41",
+            "genre": "Drum & Bass",
+            "description": "Exkluzivní Drum & Bass set."
+        },
+        {
+            "id": "P42",
+            "name": "DJ Bass42",
+            "genre": "Liquid DnB",
+            "description": "Exkluzivní Liquid DnB set."
+        },
+        {
+            "id": "P43",
+            "name": "DJ Bass43",
+            "genre": "Neurofunk",
+            "description": "Exkluzivní Neurofunk set."
+        },
+        {
+            "id": "P44",
+            "name": "DJ Bass44",
+            "genre": "Dubstep",
+            "description": "Exkluzivní Dubstep set."
+        },
+        {
+            "id": "P45",
+            "name": "DJ Bass45",
+            "genre": "Jungle",
+            "description": "Exkluzivní Jungle set."
+        },
+        {
+            "id": "P46",
+            "name": "DJ Bass46",
+            "genre": "Drum & Bass",
+            "description": "Exkluzivní Drum & Bass set."
+        },
+        {
+            "id": "P47",
+            "name": "DJ Bass47",
+            "genre": "Liquid DnB",
+            "description": "Exkluzivní Liquid DnB set."
+        },
+        {
+            "id": "P48",
+            "name": "DJ Bass48",
+            "genre": "Neurofunk",
+            "description": "Exkluzivní Neurofunk set."
+        },
+        {
+            "id": "P49",
+            "name": "DJ Bass49",
+            "genre": "Dubstep",
+            "description": "Exkluzivní Dubstep set."
+        },
+        {
+            "id": "P50",
+            "name": "DJ Bass50",
+            "genre": "Jungle",
+            "description": "Exkluzivní Jungle set."
+        },
+        {
+            "id": "P51",
+            "name": "DJ Tech51",
+            "genre": "Techno",
+            "description": "Exkluzivní Techno set."
+        },
+        {
+            "id": "P52",
+            "name": "DJ Tech52",
+            "genre": "Hard Techno",
+            "description": "Exkluzivní Hard Techno set."
+        },
+        {
+            "id": "P53",
+            "name": "DJ Tech53",
+            "genre": "Acid Techno",
+            "description": "Exkluzivní Acid Techno set."
+        },
+        {
+            "id": "P54",
+            "name": "DJ Tech54",
+            "genre": "House",
+            "description": "Exkluzivní House set."
+        },
+        {
+            "id": "P55",
+            "name": "DJ Tech55",
+            "genre": "Tech House",
+            "description": "Exkluzivní Tech House set."
+        },
+        {
+            "id": "P56",
+            "name": "DJ Tech56",
+            "genre": "Techno",
+            "description": "Exkluzivní Techno set."
+        },
+        {
+            "id": "P57",
+            "name": "DJ Tech57",
+            "genre": "Hard Techno",
+            "description": "Exkluzivní Hard Techno set."
+        },
+        {
+            "id": "P58",
+            "name": "DJ Tech58",
+            "genre": "Acid Techno",
+            "description": "Exkluzivní Acid Techno set."
+        },
+        {
+            "id": "P59",
+            "name": "DJ Tech59",
+            "genre": "House",
+            "description": "Exkluzivní House set."
+        },
+        {
+            "id": "P60",
+            "name": "DJ Tech60",
+            "genre": "Tech House",
+            "description": "Exkluzivní Tech House set."
+        }
+    ],
+    "schedule": [
+        {
+            "id": "E1",
+            "date": "2027-06-18",
+            "start_time": "18:00",
+            "end_time": "19:00",
+            "scene_id": "S1",
+            "performer_id": "P1"
+        },
+        {
+            "id": "E2",
+            "date": "2027-06-18",
+            "start_time": "19:00",
+            "end_time": "20:00",
+            "scene_id": "S1",
+            "performer_id": "P2"
+        },
+        {
+            "id": "E3",
+            "date": "2027-06-18",
+            "start_time": "20:00",
+            "end_time": "21:00",
+            "scene_id": "S1",
+            "performer_id": "P3"
+        },
+        {
+            "id": "E4",
+            "date": "2027-06-18",
+            "start_time": "21:00",
+            "end_time": "22:00",
+            "scene_id": "S1",
+            "performer_id": "P4"
+        },
+        {
+            "id": "E5",
+            "date": "2027-06-18",
+            "start_time": "22:00",
+            "end_time": "23:00",
+            "scene_id": "S1",
+            "performer_id": "P5"
+        },
+        {
+            "id": "E6",
+            "date": "2027-06-18",
+            "start_time": "23:00",
+            "end_time": "00:00",
+            "scene_id": "S1",
+            "performer_id": "P6"
+        },
+        {
+            "id": "E7",
+            "date": "2027-06-18",
+            "start_time": "00:00",
+            "end_time": "01:00",
+            "scene_id": "S1",
+            "performer_id": "P7"
+        },
+        {
+            "id": "E8",
+            "date": "2027-06-18",
+            "start_time": "01:00",
+            "end_time": "02:00",
+            "scene_id": "S1",
+            "performer_id": "P8"
+        },
+        {
+            "id": "E9",
+            "date": "2027-06-18",
+            "start_time": "02:00",
+            "end_time": "03:00",
+            "scene_id": "S1",
+            "performer_id": "P9"
+        },
+        {
+            "id": "E10",
+            "date": "2027-06-18",
+            "start_time": "03:00",
+            "end_time": "04:00",
+            "scene_id": "S1",
+            "performer_id": "P10"
+        },
+        {
+            "id": "E11",
+            "date": "2027-06-18",
+            "start_time": "18:00",
+            "end_time": "19:00",
+            "scene_id": "S2",
+            "performer_id": "P11"
+        },
+        {
+            "id": "E12",
+            "date": "2027-06-18",
+            "start_time": "19:00",
+            "end_time": "20:00",
+            "scene_id": "S2",
+            "performer_id": "P12"
+        },
+        {
+            "id": "E13",
+            "date": "2027-06-18",
+            "start_time": "20:00",
+            "end_time": "21:00",
+            "scene_id": "S2",
+            "performer_id": "P13"
+        },
+        {
+            "id": "E14",
+            "date": "2027-06-18",
+            "start_time": "21:00",
+            "end_time": "22:00",
+            "scene_id": "S2",
+            "performer_id": "P14"
+        },
+        {
+            "id": "E15",
+            "date": "2027-06-18",
+            "start_time": "22:00",
+            "end_time": "23:00",
+            "scene_id": "S2",
+            "performer_id": "P15"
+        },
+        {
+            "id": "E16",
+            "date": "2027-06-18",
+            "start_time": "23:00",
+            "end_time": "00:00",
+            "scene_id": "S2",
+            "performer_id": "P16"
+        },
+        {
+            "id": "E17",
+            "date": "2027-06-18",
+            "start_time": "00:00",
+            "end_time": "01:00",
+            "scene_id": "S2",
+            "performer_id": "P17"
+        },
+        {
+            "id": "E18",
+            "date": "2027-06-18",
+            "start_time": "01:00",
+            "end_time": "02:00",
+            "scene_id": "S2",
+            "performer_id": "P18"
+        },
+        {
+            "id": "E19",
+            "date": "2027-06-18",
+            "start_time": "02:00",
+            "end_time": "03:00",
+            "scene_id": "S2",
+            "performer_id": "P19"
+        },
+        {
+            "id": "E20",
+            "date": "2027-06-18",
+            "start_time": "03:00",
+            "end_time": "04:00",
+            "scene_id": "S2",
+            "performer_id": "P20"
+        },
+        {
+            "id": "E21",
+            "date": "2027-06-19",
+            "start_time": "18:00",
+            "end_time": "19:00",
+            "scene_id": "S1",
+            "performer_id": "P21"
+        },
+        {
+            "id": "E22",
+            "date": "2027-06-19",
+            "start_time": "19:00",
+            "end_time": "20:00",
+            "scene_id": "S1",
+            "performer_id": "P22"
+        },
+        {
+            "id": "E23",
+            "date": "2027-06-19",
+            "start_time": "20:00",
+            "end_time": "21:00",
+            "scene_id": "S1",
+            "performer_id": "P23"
+        },
+        {
+            "id": "E24",
+            "date": "2027-06-19",
+            "start_time": "21:00",
+            "end_time": "22:00",
+            "scene_id": "S1",
+            "performer_id": "P24"
+        },
+        {
+            "id": "E25",
+            "date": "2027-06-19",
+            "start_time": "22:00",
+            "end_time": "23:00",
+            "scene_id": "S1",
+            "performer_id": "P25"
+        },
+        {
+            "id": "E26",
+            "date": "2027-06-19",
+            "start_time": "23:00",
+            "end_time": "00:00",
+            "scene_id": "S1",
+            "performer_id": "P26"
+        },
+        {
+            "id": "E27",
+            "date": "2027-06-19",
+            "start_time": "00:00",
+            "end_time": "01:00",
+            "scene_id": "S1",
+            "performer_id": "P27"
+        },
+        {
+            "id": "E28",
+            "date": "2027-06-19",
+            "start_time": "01:00",
+            "end_time": "02:00",
+            "scene_id": "S1",
+            "performer_id": "P28"
+        },
+        {
+            "id": "E29",
+            "date": "2027-06-19",
+            "start_time": "02:00",
+            "end_time": "03:00",
+            "scene_id": "S1",
+            "performer_id": "P29"
+        },
+        {
+            "id": "E30",
+            "date": "2027-06-19",
+            "start_time": "03:00",
+            "end_time": "04:00",
+            "scene_id": "S1",
+            "performer_id": "P30"
+        },
+        {
+            "id": "E31",
+            "date": "2027-06-19",
+            "start_time": "18:00",
+            "end_time": "19:00",
+            "scene_id": "S2",
+            "performer_id": "P31"
+        },
+        {
+            "id": "E32",
+            "date": "2027-06-19",
+            "start_time": "19:00",
+            "end_time": "20:00",
+            "scene_id": "S2",
+            "performer_id": "P32"
+        },
+        {
+            "id": "E33",
+            "date": "2027-06-19",
+            "start_time": "20:00",
+            "end_time": "21:00",
+            "scene_id": "S2",
+            "performer_id": "P33"
+        },
+        {
+            "id": "E34",
+            "date": "2027-06-19",
+            "start_time": "21:00",
+            "end_time": "22:00",
+            "scene_id": "S2",
+            "performer_id": "P34"
+        },
+        {
+            "id": "E35",
+            "date": "2027-06-19",
+            "start_time": "22:00",
+            "end_time": "23:00",
+            "scene_id": "S2",
+            "performer_id": "P35"
+        },
+        {
+            "id": "E36",
+            "date": "2027-06-19",
+            "start_time": "23:00",
+            "end_time": "00:00",
+            "scene_id": "S2",
+            "performer_id": "P36"
+        },
+        {
+            "id": "E37",
+            "date": "2027-06-19",
+            "start_time": "00:00",
+            "end_time": "01:00",
+            "scene_id": "S2",
+            "performer_id": "P37"
+        },
+        {
+            "id": "E38",
+            "date": "2027-06-19",
+            "start_time": "01:00",
+            "end_time": "02:00",
+            "scene_id": "S2",
+            "performer_id": "P38"
+        },
+        {
+            "id": "E39",
+            "date": "2027-06-19",
+            "start_time": "02:00",
+            "end_time": "03:00",
+            "scene_id": "S2",
+            "performer_id": "P39"
+        },
+        {
+            "id": "E40",
+            "date": "2027-06-19",
+            "start_time": "03:00",
+            "end_time": "04:00",
+            "scene_id": "S2",
+            "performer_id": "P40"
+        },
+        {
+            "id": "E41",
+            "date": "2027-06-20",
+            "start_time": "18:00",
+            "end_time": "19:00",
+            "scene_id": "S1",
+            "performer_id": "P41"
+        },
+        {
+            "id": "E42",
+            "date": "2027-06-20",
+            "start_time": "19:00",
+            "end_time": "20:00",
+            "scene_id": "S1",
+            "performer_id": "P42"
+        },
+        {
+            "id": "E43",
+            "date": "2027-06-20",
+            "start_time": "20:00",
+            "end_time": "21:00",
+            "scene_id": "S1",
+            "performer_id": "P43"
+        },
+        {
+            "id": "E44",
+            "date": "2027-06-20",
+            "start_time": "21:00",
+            "end_time": "22:00",
+            "scene_id": "S1",
+            "performer_id": "P44"
+        },
+        {
+            "id": "E45",
+            "date": "2027-06-20",
+            "start_time": "22:00",
+            "end_time": "23:00",
+            "scene_id": "S1",
+            "performer_id": "P45"
+        },
+        {
+            "id": "E46",
+            "date": "2027-06-20",
+            "start_time": "23:00",
+            "end_time": "00:00",
+            "scene_id": "S1",
+            "performer_id": "P46"
+        },
+        {
+            "id": "E47",
+            "date": "2027-06-20",
+            "start_time": "00:00",
+            "end_time": "01:00",
+            "scene_id": "S1",
+            "performer_id": "P47"
+        },
+        {
+            "id": "E48",
+            "date": "2027-06-20",
+            "start_time": "01:00",
+            "end_time": "02:00",
+            "scene_id": "S1",
+            "performer_id": "P48"
+        },
+        {
+            "id": "E49",
+            "date": "2027-06-20",
+            "start_time": "02:00",
+            "end_time": "03:00",
+            "scene_id": "S1",
+            "performer_id": "P49"
+        },
+        {
+            "id": "E50",
+            "date": "2027-06-20",
+            "start_time": "03:00",
+            "end_time": "04:00",
+            "scene_id": "S1",
+            "performer_id": "P50"
+        },
+        {
+            "id": "E51",
+            "date": "2027-06-20",
+            "start_time": "18:00",
+            "end_time": "19:00",
+            "scene_id": "S2",
+            "performer_id": "P51"
+        },
+        {
+            "id": "E52",
+            "date": "2027-06-20",
+            "start_time": "19:00",
+            "end_time": "20:00",
+            "scene_id": "S2",
+            "performer_id": "P52"
+        },
+        {
+            "id": "E53",
+            "date": "2027-06-20",
+            "start_time": "20:00",
+            "end_time": "21:00",
+            "scene_id": "S2",
+            "performer_id": "P53"
+        },
+        {
+            "id": "E54",
+            "date": "2027-06-20",
+            "start_time": "21:00",
+            "end_time": "22:00",
+            "scene_id": "S2",
+            "performer_id": "P54"
+        },
+        {
+            "id": "E55",
+            "date": "2027-06-20",
+            "start_time": "22:00",
+            "end_time": "23:00",
+            "scene_id": "S2",
+            "performer_id": "P55"
+        },
+        {
+            "id": "E56",
+            "date": "2027-06-20",
+            "start_time": "23:00",
+            "end_time": "00:00",
+            "scene_id": "S2",
+            "performer_id": "P56"
+        },
+        {
+            "id": "E57",
+            "date": "2027-06-20",
+            "start_time": "00:00",
+            "end_time": "01:00",
+            "scene_id": "S2",
+            "performer_id": "P57"
+        },
+        {
+            "id": "E58",
+            "date": "2027-06-20",
+            "start_time": "01:00",
+            "end_time": "02:00",
+            "scene_id": "S2",
+            "performer_id": "P58"
+        },
+        {
+            "id": "E59",
+            "date": "2027-06-20",
+            "start_time": "02:00",
+            "end_time": "03:00",
+            "scene_id": "S2",
+            "performer_id": "P59"
+        },
+        {
+            "id": "E60",
+            "date": "2027-06-20",
+            "start_time": "03:00",
+            "end_time": "04:00",
+            "scene_id": "S2",
+            "performer_id": "P60"
+        }
+    ]
+}
